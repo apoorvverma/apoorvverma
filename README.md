@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/main/readme_header.png "Header")](https://apoorvverma.com/)
+[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/master/readme_header.png)](https://apoorvverma.com/)
 
 ## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/main/wave.gif" width="30px">
 
