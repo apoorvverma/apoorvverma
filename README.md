@@ -16,14 +16,14 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
 
 #### 📫 How to reach me
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/apoorvv/){target="\_blank"}
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/apoorvv/)
 <a href="mailto:apoorv.verma999@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-[<img src="https://img.icons8.com/dusk/64/000000/domain.png" width="3.5%"/>](https://apoorvverma.com/){:target="\_blank"}
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/1999Apoorv){:target="\_blank"}
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/verma.apoorv/){target="\_blank"}
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/apoorv.verma.33633/){target="\_blank"}
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/apoorverma/){target="\_blank"}
-[<img src="https://img.icons8.com/fluent/48/000000/spotify.png" width="3.5%"/>](https://open.spotify.com/user/apoorv.verma12){target="\_blank"}
+[<img src="https://img.icons8.com/dusk/64/000000/domain.png" width="3.5%"/>](https://apoorvverma.com/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/1999Apoorv)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/verma.apoorv/)
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/apoorv.verma.33633/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/apoorverma/)
+[<img src="https://img.icons8.com/fluent/48/000000/spotify.png" width="3.5%"/>](https://open.spotify.com/user/apoorv.verma12)
 
 #### 👨🏻‍💻 Technologies & Tools
 
