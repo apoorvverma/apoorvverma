@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/master/readme_header.png)](https://apoorvverma.com/)
+[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/readme_header.png)](https://apoorvverma.com/)
 
-## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/main/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px">
 
 I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
 
@@ -14,7 +14,7 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 📫 How to reach me: ... -->
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/apoorvv/)
 <a href="mailto:apoorv.verma999@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
@@ -25,7 +25,7 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/apoorverma/)
 [<img src="https://img.icons8.com/fluent/48/000000/spotify.png" width="3.5%"/>](https://open.spotify.com/user/apoorv.verma12)
 
-#### 👨🏻‍💻 Technologies & Tools
+### 👨🏻‍💻 Technologies & Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"></code>
@@ -42,7 +42,7 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
-#### ⚙️ Things I use to get stuff done
+### ⚙️ Things I use to get stuff done
 
 <ul>
     <li><b>OS:</b> Ubuntu 20.04, Windows 10</li>
@@ -52,7 +52,7 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
     <li><b>To Stay Updated:</b> Medium and Youtube</li>
 </ul>
 
-#### ⚡ Github Stats
+### ⚡ Github Stats
 
 <a href="https://github.com/apoorvverma/apoorvverma">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvverma&show_icons=true&theme=tokyonight" alt="Apoorv's GitHub Stats" />
