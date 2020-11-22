@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/master/readme_header.png "Header")](https://apoorvverma.com/)
+[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/main/readme_header.png "Header")](https://apoorvverma.com/)
 
-## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/blob/main/wave.gif" width="30px">
 
 I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
 
@@ -18,8 +18,8 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/apoorvv/){target="\_blank"}
 <a href="mailto:apoorv.verma999@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-[<img src="https://img.icons8.com/dusk/64/000000/domain.png" width="3.5%"/>](https://apoorvverma.com/){target="\_blank"}
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/1999Apoorv){target="\_blank"}
+[<img src="https://img.icons8.com/dusk/64/000000/domain.png" width="3.5%"/>](https://apoorvverma.com/){:target="\_blank"}
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/1999Apoorv){:target="\_blank"}
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/verma.apoorv/){target="\_blank"}
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/apoorv.verma.33633/){target="\_blank"}
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/apoorverma/){target="\_blank"}
