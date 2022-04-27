@@ -30,8 +30,8 @@ I am Apoorv Verma, a Full-Stack Developer from Indore. I really love exploring n
 <code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript"></code>
-<code><img height="40" src="https://img.icons8.com/windows/48/000000/nodejs.png" title="NodeJS"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="ExpressJS"></code>
+<code><img height="40" src="https://img.icons8.com/fluency/48/000000/node-js.png" title="NodeJS"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" title="ExpressJS"></code>
 <code><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/react.png" title="React"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"></code>
@@ -39,7 +39,7 @@ I am Apoorv Verma, a Full-Stack Developer from Indore. I really love exploring n
 <code><img height="40" src="https://img.icons8.com/color/48/000000/azure-1.png" title="Development on Microsoft Azure"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"></code>
-<code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/sass.png" title="SCSS"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/sass.png" title="SCSS"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu"></code>
