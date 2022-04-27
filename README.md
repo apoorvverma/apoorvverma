@@ -2,12 +2,12 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px">
 
-I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech topics & ideas. I Design, read, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
+I am Apoorv Verma, a Full-Stack Developer from Indore. I really love exploring new tech topics & ideas. I Write Code, read stuff, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 💬 Ask me anything about Trending Techs, Anime Culture & Gaming!
+- 🌱 I’m currently working as a Full Stack Developer
+- 💬 Ask me anything about Development, Trending Techs, Anime Culture & Gaming!
 - 😄 Pronouns: He/Him
-- 🎮 Games I played recently: Rocket League, Valorant
+- 🎮 Games I played recently: Valorant, God of War & Days Gone
 - ⚡ Fun fact: <b>GNU's Not Unix</b> & GNU stands for the same!
   <!-- - 🔭 I’m currently working on ... -->
   <!-- - 👯 I’m looking to collaborate on ... -->
@@ -27,12 +27,22 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
 
 ### 👨🏻‍💻 Technologies & Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript"></code>
+<code><img height="40" src="https://img.icons8.com/windows/48/000000/nodejs.png" title="NodeJS"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="ExpressJS"></code>
+<code><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/react.png" title="React"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/redux.png" title="Redux"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" title="Sequelize ORM"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/azure-1.png" title="Development on Microsoft Azure"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"></code>
-<code><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/react.png" title="React"></code>
+<code><img height="40" src="https://img.icons8.com/ios-filled/50/000000/sass.png" title="SCSS"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/console.png" title="Bash Shell"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png" title="Git"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title="Adobe Photoshop"></code>
@@ -45,11 +55,11 @@ I am Apoorv Verma, a CSE student from Indore. I really love exploring new tech t
 ### ⚙️ Things I use to get stuff done
 
 <ul>
-    <li><b>OS:</b> Ubuntu 20.04, Windows 10</li>
+    <li><b>OS:</b> Ubuntu 20.04, Windows 10/11</li>
     <li><b>Laptop: </b> Predator Helios 300</li>
     <li><b>Browser: </b> Chrome, Brave</li>
-    <li><b>Code Editor:</b> VSCode</li>
-    <li><b>To Stay Updated:</b> Medium and Youtube</li>
+    <li><b>Code Editor:</b> VSCode/Sublime</li>
+    <li><b>To Stay Updated:</b> Medium, Youtube & rest of the Internet</li>
 </ul>
 
 ### ⚡ Github Stats
