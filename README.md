@@ -1,6 +1,7 @@
 [![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/readme_header.png)](https://apoorvverma.com/)
 
-## Hi there! <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px">
+## Hi there!
+<!-- <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px"> -->
 
 I am Apoorv Verma, a Full-Stack Developer from Indore. I really love exploring new tech topics & ideas. I Write Code, read stuff, listen to music, stream anime, play PC games, or do something new & creative in my leisure time.
 
