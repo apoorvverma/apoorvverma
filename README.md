@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/readme_header.png)](https://apoorvverma.com/)
+<!--  [![Header](https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/readme_header.png)](https://apoorvverma.com/) -->
 
 ## Hi there!
 <!-- <img src="https://raw.githubusercontent.com/apoorvverma/apoorvverma/main/wave.gif" width="30px"> -->
