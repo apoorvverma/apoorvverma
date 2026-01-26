@@ -63,8 +63,8 @@ I am Apoorv Verma, a Full-Stack Developer from Indore. I really love exploring n
     <li><b>To Stay Updated:</b> Medium, Youtube & rest of the Internet</li>
 </ul>
 
-### ⚡ Github Stats
+<!-- ### ⚡ Github Stats
 
 <a href="https://github.com/apoorvverma/apoorvverma">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvverma&show_icons=true&theme=tokyonight" alt="Apoorv's GitHub Stats" />
-</a>
+</a> -->
